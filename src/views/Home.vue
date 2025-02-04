@@ -7,7 +7,7 @@ const router = useRouter()
 const title = ref('Generador de Cupones')
 
 const navigateToCupones = () => {
-    router.push('/cupones')
+    router.push('/PDFGenerator')
 }
 </script>
 
